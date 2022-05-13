@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Leiningen: org.xhtmlrenderer/flying-saucer-core:9.1.22">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/xhtmlrenderer/flying-saucer-core/9.1.22/flying-saucer-core-9.1.22.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
